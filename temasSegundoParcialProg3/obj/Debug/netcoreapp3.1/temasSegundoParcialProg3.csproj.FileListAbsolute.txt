@@ -1,0 +1,13 @@
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\bin\Debug\netcoreapp3.1\temasSegundoParcialProg3.exe
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\bin\Debug\netcoreapp3.1\temasSegundoParcialProg3.deps.json
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\bin\Debug\netcoreapp3.1\temasSegundoParcialProg3.runtimeconfig.json
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\bin\Debug\netcoreapp3.1\temasSegundoParcialProg3.runtimeconfig.dev.json
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\bin\Debug\netcoreapp3.1\temasSegundoParcialProg3.dll
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\bin\Debug\netcoreapp3.1\temasSegundoParcialProg3.pdb
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\obj\Debug\netcoreapp3.1\temasSegundoParcialProg3.csproj.AssemblyReference.cache
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\obj\Debug\netcoreapp3.1\temasSegundoParcialProg3.AssemblyInfoInputs.cache
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\obj\Debug\netcoreapp3.1\temasSegundoParcialProg3.AssemblyInfo.cs
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\obj\Debug\netcoreapp3.1\temasSegundoParcialProg3.csproj.CoreCompileInputs.cache
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\obj\Debug\netcoreapp3.1\temasSegundoParcialProg3.dll
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\obj\Debug\netcoreapp3.1\temasSegundoParcialProg3.pdb
+C:\Users\Manu\source\repos\temasSegundoParcialProg3\obj\Debug\netcoreapp3.1\temasSegundoParcialProg3.genruntimeconfig.cache

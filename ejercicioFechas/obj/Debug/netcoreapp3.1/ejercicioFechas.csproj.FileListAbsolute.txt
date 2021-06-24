@@ -1,0 +1,13 @@
+C:\Users\Manu\source\repos\ejercicioFechas\bin\Debug\netcoreapp3.1\ejercicioFechas.exe
+C:\Users\Manu\source\repos\ejercicioFechas\bin\Debug\netcoreapp3.1\ejercicioFechas.deps.json
+C:\Users\Manu\source\repos\ejercicioFechas\bin\Debug\netcoreapp3.1\ejercicioFechas.runtimeconfig.json
+C:\Users\Manu\source\repos\ejercicioFechas\bin\Debug\netcoreapp3.1\ejercicioFechas.runtimeconfig.dev.json
+C:\Users\Manu\source\repos\ejercicioFechas\bin\Debug\netcoreapp3.1\ejercicioFechas.dll
+C:\Users\Manu\source\repos\ejercicioFechas\bin\Debug\netcoreapp3.1\ejercicioFechas.pdb
+C:\Users\Manu\source\repos\ejercicioFechas\obj\Debug\netcoreapp3.1\ejercicioFechas.csproj.AssemblyReference.cache
+C:\Users\Manu\source\repos\ejercicioFechas\obj\Debug\netcoreapp3.1\ejercicioFechas.AssemblyInfoInputs.cache
+C:\Users\Manu\source\repos\ejercicioFechas\obj\Debug\netcoreapp3.1\ejercicioFechas.AssemblyInfo.cs
+C:\Users\Manu\source\repos\ejercicioFechas\obj\Debug\netcoreapp3.1\ejercicioFechas.csproj.CoreCompileInputs.cache
+C:\Users\Manu\source\repos\ejercicioFechas\obj\Debug\netcoreapp3.1\ejercicioFechas.dll
+C:\Users\Manu\source\repos\ejercicioFechas\obj\Debug\netcoreapp3.1\ejercicioFechas.pdb
+C:\Users\Manu\source\repos\ejercicioFechas\obj\Debug\netcoreapp3.1\ejercicioFechas.genruntimeconfig.cache
