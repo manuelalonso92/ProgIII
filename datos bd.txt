@@ -2,3 +2,4 @@ Tablas: Personas, Animales y Servicios
 Personas: Nombre, apellido, dni, sexo, fecha nacimiento, estado (estudia o trabaja)
 Animales: Nombre, edad, tipo(perro, gato), origen (domestico, salvaje)
 Servicio: Nombre, servicio, empresa, costo, premium (si o no)
+faltan cosas
