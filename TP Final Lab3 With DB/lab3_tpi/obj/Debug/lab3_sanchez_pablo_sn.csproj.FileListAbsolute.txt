@@ -1,0 +1,38 @@
+C:\Users\WHZ\Desktop\Lab3\bin\Debug\lab3_sanchez_pablo_sn.exe.config
+C:\Users\WHZ\Desktop\Lab3\bin\Debug\lab3_sanchez_pablo_sn.exe
+C:\Users\WHZ\Desktop\Lab3\bin\Debug\lab3_sanchez_pablo_sn.pdb
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.csprojAssemblyReference.cache
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.Form1.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.Properties.Resources.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.csproj.GenerateResource.cache
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.csproj.CoreCompileInputs.cache
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.exe
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.pdb
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaPersona.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaPersonaALTA.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaServicio.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaServicioALTA.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaAnimal.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaAnimalAlta.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaFamiliaConsulta.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaPersonaBaja.resources
+C:\Users\WHZ\Desktop\Lab3\obj\Debug\lab3_sanchez_pablo_sn.VentanaPersonaMod.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\bin\Debug\lab3_sanchez_pablo_sn.exe.config
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\bin\Debug\lab3_sanchez_pablo_sn.exe
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\bin\Debug\lab3_sanchez_pablo_sn.pdb
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.csprojAssemblyReference.cache
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.Form1.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.Properties.Resources.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaAnimal.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaAnimalAlta.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaFamiliaConsulta.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaPersona.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaPersonaALTA.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaPersonaBaja.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaPersonaMod.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaServicio.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.VentanaServicioALTA.resources
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.csproj.GenerateResource.cache
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.exe
+E:\Carpetas\Documentos\Repos\TP final lab3\lab3_tpi\obj\Debug\lab3_sanchez_pablo_sn.pdb
